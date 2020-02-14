@@ -16,3 +16,8 @@ Some more changes
 
 Final changes.
 Let's compare
+
+
+### Copyright
+
+2014 Git.Training
