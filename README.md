@@ -17,6 +17,9 @@ Some more changes
 Final changes.
 Let's compare
 
+##Deployment
+
+This is a simple web project, deployment can be on any
 
 ### Copyright
 
